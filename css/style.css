@@ -14,7 +14,7 @@
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     color: var(--primary-color);
 }
@@ -23,7 +23,7 @@
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
-    line-height: 31px;
+    line-height: 1.19;
     letter-spacing: 0.03em;
     color: var(--studio);
     text-decoration: none;
@@ -70,7 +70,7 @@
     color: var(--herotxt-color);
     font-weight: 900;
     font-size: 44px;
-    line-height: 60px;
+    line-height: 1.36;
     letter-spacing: 0.06em;
     text-transform: uppercase;
 }
@@ -80,7 +80,7 @@
     border-radius: 4px;
     font-weight: 700;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 1.87;
     display: flex;
     align-items: center;
     text-align: center;
@@ -96,14 +96,14 @@
     color: var(--primary-color);
     font-weight: 700;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     text-transform: uppercase;
 }
 .featuresp{
     color: var(--secondary-color);
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.71;
 }
 .activity{
     text-align: center;
@@ -117,7 +117,7 @@
     text-align: center;
     font-weight: 700;
     font-size: 36px;
-    line-height: 42px;
+    line-height: 1.16;
     text-align: center;
 }
 .teambg{
@@ -137,7 +137,7 @@
     color: var(--secondary-color);
     font-weight: 400;
     font-size: 16px;
-    line-height: 19px;
+    line-height: 1.18;
     text-align: center;
 }
 /*footer*/
@@ -152,8 +152,7 @@
     text-decoration: none;
     font-weight: 700;
     font-size: 26px;
-    line-height: 31px;
-    /* identical to box height */
+    line-height: 1.19;
     letter-spacing: 0.03em;
 }
 .Webfoot{
@@ -166,7 +165,7 @@
     text-decoration: none;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.71;
     letter-spacing: 0.03em;
 }
 .contacts{
